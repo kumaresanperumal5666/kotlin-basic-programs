@@ -2,6 +2,7 @@ package apinotes
 
 import java.util.*
 
+/*
 class PascalTriangle{
 
     fun printPasacleTriangle(){
@@ -21,19 +22,25 @@ class PascalTriangle{
 
             data = i;
 
-            /* space at the front of triangle */
+            */
+/* space at the front of triangle *//*
+
             for (j = i; j > 0; j--) {
             printf("   ");
         }
 
-            /* print values of first half of triangle */
+            */
+/* print values of first half of triangle *//*
+
             for (j = n; j >= i; j--) {
             printf("%3d", data++);
         }
 
             data = data - 2;
 
-            /* print values of second half of triangle */
+            */
+/* print values of second half of triangle *//*
+
             for (j = n; j > i; j--) {
             printf("%3d", data--);
         }
@@ -45,4 +52,4 @@ class PascalTriangle{
 
 fun main(args: Array<String>){
 
-}
+}*/
